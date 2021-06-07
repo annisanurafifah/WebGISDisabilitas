@@ -1,0 +1,14 @@
+{
+    "name": "hp/composer",
+    "require": {
+        "joshcam/mysqli-database-class": "dev-master",
+        "josantonius/session": "^1.0"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "Annisa Nur Afifah",
+            "email": "annisafifah0306@gmail.com"
+        }
+    ]
+}
